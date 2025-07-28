@@ -1,0 +1,24 @@
+{
+    "name": "GameLogic",
+    "rootNamespace": "",
+    "references": [
+        "UniTask",
+        "UniTask.Addressables",
+        "VContainer",
+        "LiteNetLib",
+        "Unity.TextMeshPro",
+        "Unity.Addressables",
+        "UniTask.Linq",
+        "Unity.ResourceManager",
+        "MessagePack.Unity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
